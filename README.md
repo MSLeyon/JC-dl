@@ -1,6 +1,9 @@
 # JC-dl
 Simple Content downloader for Indian OTT JioCinema (https://www.jiocinema.com/).
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
+
 *(Currently only supports movies, I haven't looked at TV shows, so if someone wants to open a PR, feel free)*
 
 ## Purpose
